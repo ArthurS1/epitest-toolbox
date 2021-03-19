@@ -1,9 +1,13 @@
-## Epitest ToolboxCancel Changes
+## Epitest Toolbox
 
 ### Requirements
 
-You need to install `podman` (an alternative to docker present on fedora 31+), to build correctly epitest-toolbox image
+You need to install `podman` (an alternative to docker present on fedora 31+), to build correctly epitest-toolbox image.
 Furthermore, this image is meant to be used with toolbox. Toolbox is a way to develop in immutable systems such as fedora silverblue.
+
+### Notable changes
+
+This toolbox image doesn't contain php because of httpd's incompatibility with rootless containerisation.
 
 ### Epitest-Toolbox
 
