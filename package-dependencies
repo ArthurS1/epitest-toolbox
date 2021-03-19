@@ -1,0 +1,436 @@
+----------------------------------------------------------------------------------------------------------
+aalib
+----------------------------------------------------------------------------------------------------------
+aalib-libs-0:1.4.0-0.40.rc5.fc33.x86_64 glibc-0:2.32-4.fc33.i686 glibc-0:2.32-4.fc33.x86_64
+----------------------------------------------------------------------------------------------------------
+autoconf
+----------------------------------------------------------------------------------------------------------
+bash-0:5.0.17-2.fc33.x86_64 emacs-filesystem-1:27.1-2.fc33.noarch m4-0:1.4.18-15.fc33.x86_64 perl-Carp-0:1.50-457.fc33.noarch perl-Class-Struct-0:0.66-468.fc33.noarch perl-Data-Dumper-0:2.174-459.fc33.x86_64 perl-DynaLoader-0:1.47-468.fc33.x86_64 perl-Errno-0:1.30-468.fc33.x86_64 perl-Exporter-0:5.74-458.fc33.noarch perl-File-Basename-0:2.85-468.fc33.noarch perl-File-Compare-0:1.100.600-468.fc33.noarch perl-File-Copy-0:2.34-468.fc33.noarch perl-File-Find-0:1.37-468.fc33.noarch perl-File-Path-0:2.18-1.fc33.noarch perl-File-stat-0:1.09-468.fc33.noarch perl-Getopt-Long-1:2.52-1.fc33.noarch perl-IO-0:1.43-468.fc33.x86_64 perl-POSIX-0:1.94-468.fc33.x86_64 perl-PathTools-0:3.78-458.fc33.x86_64 perl-Text-ParseWords-0:3.30-457.fc33.noarch perl-constant-0:1.33-458.fc33.noarch perl-interpreter-4:5.32.1-468.fc33.x86_64 perl-libs-4:5.32.1-468.fc33.i686 perl-libs-4:5.32.1-468.fc33.x86_64 perl-vars-0:1.05-468.fc33.noarch
+----------------------------------------------------------------------------------------------------------
+automake
+----------------------------------------------------------------------------------------------------------
+autoconf-0:2.69-34.fc33.noarch bash-0:5.0.17-2.fc33.x86_64 perl-Carp-0:1.50-457.fc33.noarch perl-Class-Struct-0:0.66-468.fc33.noarch perl-DynaLoader-0:1.47-468.fc33.x86_64 perl-Errno-0:1.30-468.fc33.x86_64 perl-Exporter-0:5.74-458.fc33.noarch perl-File-Basename-0:2.85-468.fc33.noarch perl-File-Compare-0:1.100.600-468.fc33.noarch perl-File-Copy-0:2.34-468.fc33.noarch perl-File-Path-0:2.18-1.fc33.noarch perl-File-stat-0:1.09-468.fc33.noarch perl-Getopt-Long-1:2.52-1.fc33.noarch perl-IO-0:1.43-468.fc33.x86_64 perl-POSIX-0:1.94-468.fc33.x86_64 perl-PathTools-0:3.78-458.fc33.x86_64 perl-Thread-Queue-0:3.14-457.fc33.noarch perl-constant-0:1.33-458.fc33.noarch perl-interpreter-4:5.32.1-468.fc33.x86_64 perl-libs-4:5.32.1-468.fc33.i686 perl-libs-4:5.32.1-468.fc33.x86_64 perl-threads-1:2.25-457.fc33.x86_64 perl-vars-0:1.05-468.fc33.noarch
+----------------------------------------------------------------------------------------------------------
+boost
+----------------------------------------------------------------------------------------------------------
+boost-atomic-0:1.73.0-10.fc33.i686 boost-atomic-0:1.73.0-10.fc33.x86_64 boost-chrono-0:1.73.0-10.fc33.i686 boost-chrono-0:1.73.0-10.fc33.x86_64 boost-container-0:1.73.0-10.fc33.i686 boost-container-0:1.73.0-10.fc33.x86_64 boost-context-0:1.73.0-10.fc33.i686 boost-context-0:1.73.0-10.fc33.x86_64 boost-contract-0:1.73.0-10.fc33.i686 boost-contract-0:1.73.0-10.fc33.x86_64 boost-coroutine-0:1.73.0-10.fc33.i686 boost-coroutine-0:1.73.0-10.fc33.x86_64 boost-date-time-0:1.73.0-10.fc33.i686 boost-date-time-0:1.73.0-10.fc33.x86_64 boost-fiber-0:1.73.0-10.fc33.i686 boost-fiber-0:1.73.0-10.fc33.x86_64 boost-filesystem-0:1.73.0-10.fc33.i686 boost-filesystem-0:1.73.0-10.fc33.x86_64 boost-graph-0:1.73.0-10.fc33.i686 boost-graph-0:1.73.0-10.fc33.x86_64 boost-iostreams-0:1.73.0-10.fc33.i686 boost-iostreams-0:1.73.0-10.fc33.x86_64 boost-locale-0:1.73.0-10.fc33.i686 boost-locale-0:1.73.0-10.fc33.x86_64 boost-log-0:1.73.0-10.fc33.i686 boost-log-0:1.73.0-10.fc33.x86_64 boost-math-0:1.73.0-10.fc33.i686 boost-math-0:1.73.0-10.fc33.x86_64 boost-nowide-0:1.73.0-10.fc33.i686 boost-nowide-0:1.73.0-10.fc33.x86_64 boost-program-options-0:1.73.0-10.fc33.i686 boost-program-options-0:1.73.0-10.fc33.x86_64 boost-python3-0:1.73.0-10.fc33.i686 boost-python3-0:1.73.0-10.fc33.x86_64 boost-random-0:1.73.0-10.fc33.i686 boost-random-0:1.73.0-10.fc33.x86_64 boost-regex-0:1.73.0-10.fc33.i686 boost-regex-0:1.73.0-10.fc33.x86_64 boost-serialization-0:1.73.0-10.fc33.i686 boost-serialization-0:1.73.0-10.fc33.x86_64 boost-stacktrace-0:1.73.0-10.fc33.i686 boost-stacktrace-0:1.73.0-10.fc33.x86_64 boost-system-0:1.73.0-10.fc33.i686 boost-system-0:1.73.0-10.fc33.x86_64 boost-test-0:1.73.0-10.fc33.i686 boost-test-0:1.73.0-10.fc33.x86_64 boost-thread-0:1.73.0-10.fc33.i686 boost-thread-0:1.73.0-10.fc33.x86_64 boost-timer-0:1.73.0-10.fc33.i686 boost-timer-0:1.73.0-10.fc33.x86_64 boost-type_erasure-0:1.73.0-10.fc33.i686 boost-type_erasure-0:1.73.0-10.fc33.x86_64 boost-wave-0:1.73.0-10.fc33.i686 boost-wave-0:1.73.0-10.fc33.x86_64
+----------------------------------------------------------------------------------------------------------
+boost-devel.x86_64
+----------------------------------------------------------------------------------------------------------
+boost-0:1.73.0-10.fc33.x86_64 boost-atomic-0:1.73.0-10.fc33.x86_64 boost-chrono-0:1.73.0-10.fc33.x86_64 boost-container-0:1.73.0-10.fc33.x86_64 boost-context-0:1.73.0-10.fc33.x86_64 boost-contract-0:1.73.0-10.fc33.x86_64 boost-coroutine-0:1.73.0-10.fc33.x86_64 boost-date-time-0:1.73.0-10.fc33.x86_64 boost-fiber-0:1.73.0-10.fc33.x86_64 boost-filesystem-0:1.73.0-10.fc33.x86_64 boost-graph-0:1.73.0-10.fc33.x86_64 boost-iostreams-0:1.73.0-10.fc33.x86_64 boost-locale-0:1.73.0-10.fc33.x86_64 boost-log-0:1.73.0-10.fc33.x86_64 boost-math-0:1.73.0-10.fc33.x86_64 boost-nowide-0:1.73.0-10.fc33.x86_64 boost-numpy3-0:1.73.0-10.fc33.x86_64 boost-program-options-0:1.73.0-10.fc33.x86_64 boost-python3-0:1.73.0-10.fc33.x86_64 boost-random-0:1.73.0-10.fc33.x86_64 boost-regex-0:1.73.0-10.fc33.x86_64 boost-serialization-0:1.73.0-10.fc33.x86_64 boost-stacktrace-0:1.73.0-10.fc33.x86_64 boost-system-0:1.73.0-10.fc33.x86_64 boost-test-0:1.73.0-10.fc33.x86_64 boost-timer-0:1.73.0-10.fc33.x86_64 boost-type_erasure-0:1.73.0-10.fc33.x86_64 boost-wave-0:1.73.0-10.fc33.x86_64 libicu-devel-0:67.1-4.fc33.x86_64 libquadmath-devel-0:10.2.1-9.fc33.x86_64
+----------------------------------------------------------------------------------------------------------
+boost-graph
+----------------------------------------------------------------------------------------------------------
+boost-regex-0:1.73.0-10.fc33.i686 boost-regex-0:1.73.0-10.fc33.x86_64 glibc-0:2.32-4.fc33.i686 glibc-0:2.32-4.fc33.x86_64 libgcc-0:10.2.1-9.fc33.i686 libgcc-0:10.2.1-9.fc33.x86_64 libicu-0:67.1-4.fc33.i686 libicu-0:67.1-4.fc33.x86_64 libstdc++-0:10.2.1-9.fc33.i686 libstdc++-0:10.2.1-9.fc33.x86_64
+----------------------------------------------------------------------------------------------------------
+boost-math
+----------------------------------------------------------------------------------------------------------
+glibc-0:2.32-4.fc33.i686 glibc-0:2.32-4.fc33.x86_64 libgcc-0:10.2.1-9.fc33.i686 libgcc-0:10.2.1-9.fc33.x86_64 libstdc++-0:10.2.1-9.fc33.i686 libstdc++-0:10.2.1-9.fc33.x86_64
+----------------------------------------------------------------------------------------------------------
+boost-static.x86_64
+----------------------------------------------------------------------------------------------------------
+boost-devel-0:1.73.0-10.fc33.x86_64
+----------------------------------------------------------------------------------------------------------
+ca-certificates.noarch
+----------------------------------------------------------------------------------------------------------
+bash-0:5.0.17-2.fc33.x86_64 coreutils-0:8.32-18.fc33.x86_64 coreutils-single-0:8.32-18.fc33.x86_64 grep-0:3.4-5.fc33.x86_64 p11-kit-0:0.23.22-2.fc33.i686 p11-kit-0:0.23.22-2.fc33.x86_64 p11-kit-trust-0:0.23.22-2.fc33.i686 p11-kit-trust-0:0.23.22-2.fc33.x86_64 sed-0:4.8-5.fc33.x86_64
+----------------------------------------------------------------------------------------------------------
+cargo
+----------------------------------------------------------------------------------------------------------
+glibc-0:2.32-4.fc33.i686 glibc-0:2.32-4.fc33.x86_64 libcurl-0:7.71.1-8.fc33.x86_64 libcurl-minimal-0:7.71.1-8.fc33.x86_64 libgcc-0:10.2.1-9.fc33.x86_64 libgit2-0:1.0.1-3.fc33.x86_64 libssh2-0:1.9.0-6.fc33.x86_64 openssl-libs-1:1.1.1j-1.fc33.x86_64 rust-0:1.50.0-1.fc33.x86_64 zlib-0:1.2.11-23.fc33.x86_64
+----------------------------------------------------------------------------------------------------------
+clang-analyzer
+----------------------------------------------------------------------------------------------------------
+clang-0:11.0.0-2.fc33.i686 clang-0:11.0.0-2.fc33.x86_64 perl-Digest-MD5-0:2.58-1.fc33.x86_64 perl-File-Basename-0:2.85-468.fc33.noarch perl-File-Copy-0:2.34-468.fc33.noarch perl-File-Find-0:1.37-468.fc33.noarch perl-File-Path-0:2.18-1.fc33.noarch perl-File-Temp-1:0.231.100-1.fc33.noarch perl-FindBin-0:1.51-468.fc33.noarch perl-Hash-Util-0:0.23-468.fc33.x86_64 perl-PathTools-0:3.78-458.fc33.x86_64 perl-Sys-Hostname-0:1.23-468.fc33.x86_64 perl-Term-ANSIColor-0:5.01-458.fc33.noarch perl-Text-ParseWords-0:3.30-457.fc33.noarch perl-interpreter-4:5.32.1-468.fc33.x86_64 perl-lib-0:0.65-468.fc33.x86_64 perl-libs-4:5.32.1-468.fc33.i686 perl-libs-4:5.32.1-468.fc33.x86_64 python3-0:3.9.2-1.fc33.i686 python3-0:3.9.2-1.fc33.x86_64
+----------------------------------------------------------------------------------------------------------
+clang.x86_64
+----------------------------------------------------------------------------------------------------------
+clang-libs-0:11.0.0-2.fc33.x86_64 gcc-c++-0:10.2.1-3.fc33.i686 gcc-c++-0:10.2.1-9.fc33.x86_64 glibc-0:2.32-4.fc33.i686 glibc-0:2.32-4.fc33.x86_64 libgcc-0:10.2.1-9.fc33.x86_64 libstdc++-0:10.2.1-9.fc33.x86_64 libstdc++-devel-0:10.2.1-9.fc33.i686 libstdc++-devel-0:10.2.1-9.fc33.x86_64 llvm-libs-0:11.0.0-1.fc33.i686 llvm-libs-0:11.0.0-1.fc33.x86_64
+----------------------------------------------------------------------------------------------------------
+cmake.x86_64
+----------------------------------------------------------------------------------------------------------
+cmake-data-0:3.18.4-2.fc33.noarch cmake-filesystem-0:3.18.4-2.fc33.x86_64 cmake-rpm-macros-0:3.18.4-2.fc33.noarch expat-0:2.2.8-3.fc33.x86_64 glibc-0:2.32-4.fc33.i686 glibc-0:2.32-4.fc33.x86_64 jsoncpp-0:1.9.4-2.fc33.x86_64 libarchive-0:3.5.1-1.fc33.x86_64 libcurl-0:7.71.1-8.fc33.x86_64 libcurl-minimal-0:7.71.1-8.fc33.x86_64 libgcc-0:10.2.1-9.fc33.x86_64 libstdc++-0:10.2.1-9.fc33.x86_64 libuv-1:1.40.0-1.fc33.x86_64 make-1:4.3-2.fc33.x86_64 ncurses-libs-0:6.2-3.20200222.fc33.x86_64 rhash-0:1.4.0-2.fc33.x86_64 zlib-0:1.2.11-23.fc33.x86_64
+----------------------------------------------------------------------------------------------------------
+CUnit-devel.x86_64
+----------------------------------------------------------------------------------------------------------
+CUnit-0:2.1.3-22.fc33.x86_64 pkgconf-pkg-config-0:1.7.3-5.fc33.i686 pkgconf-pkg-config-0:1.7.3-5.fc33.x86_64
+----------------------------------------------------------------------------------------------------------
+curl.x86_64
+----------------------------------------------------------------------------------------------------------
+glibc-0:2.32-4.fc33.i686 glibc-0:2.32-4.fc33.x86_64 libcurl-0:7.71.1-8.fc33.x86_64 libcurl-minimal-0:7.71.1-8.fc33.x86_64 libmetalink-0:0.1.3-13.fc33.x86_64 openssl-libs-1:1.1.1j-1.fc33.x86_64 zlib-0:1.2.11-23.fc33.x86_64
+----------------------------------------------------------------------------------------------------------
+diffutils
+----------------------------------------------------------------------------------------------------------
+glibc-0:2.32-4.fc33.i686 glibc-0:2.32-4.fc33.x86_64
+----------------------------------------------------------------------------------------------------------
+dotnet-sdk-3.1
+----------------------------------------------------------------------------------------------------------
+aspnetcore-runtime-3.1-0:3.1.12-1.fc33.x86_64 aspnetcore-targeting-pack-3.1-0:3.1.12-1.fc33.x86_64 dotnet-apphost-pack-3.1-0:3.1.12-1.fc33.x86_64 dotnet-runtime-3.1-0:3.1.12-1.fc33.x86_64 dotnet-targeting-pack-3.1-0:3.1.12-1.fc33.x86_64 dotnet-templates-3.1-0:3.1.112-1.fc33.x86_64 glibc-0:2.32-4.fc33.i686 glibc-0:2.32-4.fc33.x86_64 libgcc-0:10.2.1-9.fc33.x86_64 libstdc++-0:10.2.1-9.fc33.x86_64 netstandard-targeting-pack-2.1-0:5.0.103-1.fc33.x86_64
+----------------------------------------------------------------------------------------------------------
+elfutils-libelf-devel.x86_64
+----------------------------------------------------------------------------------------------------------
+elfutils-libelf-0:0.183-1.fc33.x86_64 pkgconf-pkg-config-0:1.7.3-5.fc33.i686 pkgconf-pkg-config-0:1.7.3-5.fc33.x86_64 zlib-devel-0:1.2.11-23.fc33.i686 zlib-devel-0:1.2.11-23.fc33.x86_64
+----------------------------------------------------------------------------------------------------------
+flac-devel.x86_64
+----------------------------------------------------------------------------------------------------------
+flac-devel-0:1.3.3-4.fc33.i686 flac-devel-0:1.3.3-4.fc33.x86_64 flac-libs-0:1.3.3-4.fc33.x86_64 libogg-devel-2:1.3.4-3.fc33.i686 libogg-devel-2:1.3.4-3.fc33.x86_64 pkgconf-pkg-config-0:1.7.3-5.fc33.i686 pkgconf-pkg-config-0:1.7.3-5.fc33.x86_64
+----------------------------------------------------------------------------------------------------------
+freetype-devel.x86_64
+----------------------------------------------------------------------------------------------------------
+bash-0:5.0.17-2.fc33.x86_64 brotli-devel-0:1.0.9-3.fc33.i686 brotli-devel-0:1.0.9-3.fc33.x86_64 bzip2-devel-0:1.0.8-4.fc33.i686 bzip2-devel-0:1.0.8-4.fc33.x86_64 freetype-0:2.10.4-1.fc33.i686 freetype-0:2.10.4-1.fc33.x86_64 libpng-devel-2:1.6.37-6.fc33.i686 libpng-devel-2:1.6.37-6.fc33.x86_64 pkgconf-0:1.7.3-5.fc33.x86_64 pkgconf-pkg-config-0:1.7.3-5.fc33.i686 pkgconf-pkg-config-0:1.7.3-5.fc33.x86_64 zlib-devel-0:1.2.11-23.fc33.i686 zlib-devel-0:1.2.11-23.fc33.x86_64
+----------------------------------------------------------------------------------------------------------
+gcc-c++.x86_64
+----------------------------------------------------------------------------------------------------------
+gcc-0:10.2.1-9.fc33.x86_64 glibc-0:2.32-4.fc33.i686 glibc-0:2.32-4.fc33.x86_64 gmp-1:6.2.0-5.fc33.x86_64 libmpc-0:1.1.0-9.fc33.x86_64 libstdc++-0:10.2.1-9.fc33.i686 libstdc++-0:10.2.1-9.fc33.x86_64 libstdc++-devel-0:10.2.1-9.fc33.i686 libstdc++-devel-0:10.2.1-9.fc33.x86_64 libzstd-0:1.4.9-1.fc33.x86_64 mpfr-0:4.1.0-4.fc33.x86_64 zlib-0:1.2.11-23.fc33.x86_64
+----------------------------------------------------------------------------------------------------------
+gcc.x86_64
+----------------------------------------------------------------------------------------------------------
+bash-0:5.0.17-2.fc33.x86_64 binutils-0:2.35-18.fc33.i686 binutils-0:2.35-18.fc33.x86_64 cpp-0:10.2.1-9.fc33.x86_64 glibc-0:2.32-4.fc33.i686 glibc-0:2.32-4.fc33.x86_64 glibc-devel-0:2.32-4.fc33.i686 glibc-devel-0:2.32-4.fc33.x86_64 gmp-1:6.2.0-5.fc33.x86_64 isl-0:0.16.1-12.fc33.x86_64 libgcc-0:10.2.1-9.fc33.i686 libgcc-0:10.2.1-9.fc33.x86_64 libgomp-0:10.2.1-9.fc33.i686 libgomp-0:10.2.1-9.fc33.x86_64 libmpc-0:1.1.0-9.fc33.x86_64 libzstd-0:1.4.9-1.fc33.x86_64 make-1:4.3-2.fc33.x86_64 mpfr-0:4.1.0-4.fc33.x86_64 zlib-0:1.2.11-23.fc33.x86_64
+----------------------------------------------------------------------------------------------------------
+gdb.x86_64
+----------------------------------------------------------------------------------------------------------
+bash-0:5.0.17-2.fc33.x86_64 gdb-headless-0:10.1-2.fc33.x86_64
+----------------------------------------------------------------------------------------------------------
+ghc
+----------------------------------------------------------------------------------------------------------
+ghc-compiler-0:8.8.4-107.fc33.x86_64 ghc-devel-0:8.8.4-107.fc33.x86_64 ghc-ghc-devel-0:8.8.4-107.fc33.x86_64
+----------------------------------------------------------------------------------------------------------
+git
+----------------------------------------------------------------------------------------------------------
+bash-0:5.0.17-2.fc33.x86_64 emacs-filesystem-1:27.1-2.fc33.noarch git-core-0:2.30.2-1.fc33.x86_64 git-core-doc-0:2.30.2-1.fc33.noarch perl-File-Basename-0:2.85-468.fc33.noarch perl-File-Find-0:1.37-468.fc33.noarch perl-Getopt-Long-1:2.52-1.fc33.noarch perl-Git-0:2.30.2-1.fc33.noarch perl-IPC-Open3-0:1.21-468.fc33.noarch perl-PathTools-0:3.78-458.fc33.x86_64 perl-TermReadKey-0:2.38-8.fc33.x86_64 perl-interpreter-4:5.32.1-468.fc33.x86_64 perl-lib-0:0.65-468.fc33.x86_64 perl-libs-4:5.32.1-468.fc33.i686 perl-libs-4:5.32.1-468.fc33.x86_64 python3-0:3.9.2-1.fc33.i686 python3-0:3.9.2-1.fc33.x86_64
+----------------------------------------------------------------------------------------------------------
+glibc-devel.x86_64
+----------------------------------------------------------------------------------------------------------
+glibc-0:2.32-4.fc33.i686 glibc-0:2.32-4.fc33.x86_64 glibc-headers-x86-0:2.32-4.fc33.noarch kernel-headers-0:5.10.20-200.fc33.x86_64 libxcrypt-devel-0:4.4.18-1.fc33.x86_64
+----------------------------------------------------------------------------------------------------------
+glibc-locale-source.x86_64
+----------------------------------------------------------------------------------------------------------
+glibc-0:2.32-4.fc33.i686 glibc-0:2.32-4.fc33.x86_64 glibc-common-0:2.32-4.fc33.x86_64
+----------------------------------------------------------------------------------------------------------
+glibc.x86_64
+----------------------------------------------------------------------------------------------------------
+basesystem-0:11-10.fc33.noarch glibc-all-langpacks-0:2.32-4.fc33.x86_64 glibc-common-0:2.32-4.fc33.x86_64 glibc-langpack-aa-0:2.32-4.fc33.x86_64 glibc-langpack-af-0:2.32-4.fc33.x86_64 glibc-langpack-agr-0:2.32-4.fc33.x86_64 glibc-langpack-ak-0:2.32-4.fc33.x86_64 glibc-langpack-am-0:2.32-4.fc33.x86_64 glibc-langpack-an-0:2.32-4.fc33.x86_64 glibc-langpack-anp-0:2.32-4.fc33.x86_64 glibc-langpack-ar-0:2.32-4.fc33.x86_64 glibc-langpack-as-0:2.32-4.fc33.x86_64 glibc-langpack-ast-0:2.32-4.fc33.x86_64 glibc-langpack-ayc-0:2.32-4.fc33.x86_64 glibc-langpack-az-0:2.32-4.fc33.x86_64 glibc-langpack-be-0:2.32-4.fc33.x86_64 glibc-langpack-bem-0:2.32-4.fc33.x86_64 glibc-langpack-ber-0:2.32-4.fc33.x86_64 glibc-langpack-bg-0:2.32-4.fc33.x86_64 glibc-langpack-bhb-0:2.32-4.fc33.x86_64 glibc-langpack-bho-0:2.32-4.fc33.x86_64 glibc-langpack-bi-0:2.32-4.fc33.x86_64 glibc-langpack-bn-0:2.32-4.fc33.x86_64 glibc-langpack-bo-0:2.32-4.fc33.x86_64 glibc-langpack-br-0:2.32-4.fc33.x86_64 glibc-langpack-brx-0:2.32-4.fc33.x86_64 glibc-langpack-bs-0:2.32-4.fc33.x86_64 glibc-langpack-byn-0:2.32-4.fc33.x86_64 glibc-langpack-ca-0:2.32-4.fc33.x86_64 glibc-langpack-ce-0:2.32-4.fc33.x86_64 glibc-langpack-chr-0:2.32-4.fc33.x86_64 glibc-langpack-ckb-0:2.32-4.fc33.x86_64 glibc-langpack-cmn-0:2.32-4.fc33.x86_64 glibc-langpack-crh-0:2.32-4.fc33.x86_64 glibc-langpack-cs-0:2.32-4.fc33.x86_64 glibc-langpack-csb-0:2.32-4.fc33.x86_64 glibc-langpack-cv-0:2.32-4.fc33.x86_64 glibc-langpack-cy-0:2.32-4.fc33.x86_64 glibc-langpack-da-0:2.32-4.fc33.x86_64 glibc-langpack-de-0:2.32-4.fc33.x86_64 glibc-langpack-doi-0:2.32-4.fc33.x86_64 glibc-langpack-dsb-0:2.32-4.fc33.x86_64 glibc-langpack-dv-0:2.32-4.fc33.x86_64 glibc-langpack-dz-0:2.32-4.fc33.x86_64 glibc-langpack-el-0:2.32-4.fc33.x86_64 glibc-langpack-en-0:2.32-4.fc33.x86_64 glibc-langpack-eo-0:2.32-4.fc33.x86_64 glibc-langpack-es-0:2.32-4.fc33.x86_64 glibc-langpack-et-0:2.32-4.fc33.x86_64 glibc-langpack-eu-0:2.32-4.fc33.x86_64 glibc-langpack-fa-0:2.32-4.fc33.x86_64 glibc-langpack-ff-0:2.32-4.fc33.x86_64 glibc-langpack-fi-0:2.32-4.fc33.x86_64 glibc-langpack-fil-0:2.32-4.fc33.x86_64 glibc-langpack-fo-0:2.32-4.fc33.x86_64 glibc-langpack-fr-0:2.32-4.fc33.x86_64 glibc-langpack-fur-0:2.32-4.fc33.x86_64 glibc-langpack-fy-0:2.32-4.fc33.x86_64 glibc-langpack-ga-0:2.32-4.fc33.x86_64 glibc-langpack-gd-0:2.32-4.fc33.x86_64 glibc-langpack-gez-0:2.32-4.fc33.x86_64 glibc-langpack-gl-0:2.32-4.fc33.x86_64 glibc-langpack-gu-0:2.32-4.fc33.x86_64 glibc-langpack-gv-0:2.32-4.fc33.x86_64 glibc-langpack-ha-0:2.32-4.fc33.x86_64 glibc-langpack-hak-0:2.32-4.fc33.x86_64 glibc-langpack-he-0:2.32-4.fc33.x86_64 glibc-langpack-hi-0:2.32-4.fc33.x86_64 glibc-langpack-hif-0:2.32-4.fc33.x86_64 glibc-langpack-hne-0:2.32-4.fc33.x86_64 glibc-langpack-hr-0:2.32-4.fc33.x86_64 glibc-langpack-hsb-0:2.32-4.fc33.x86_64 glibc-langpack-ht-0:2.32-4.fc33.x86_64 glibc-langpack-hu-0:2.32-4.fc33.x86_64 glibc-langpack-hy-0:2.32-4.fc33.x86_64 glibc-langpack-ia-0:2.32-4.fc33.x86_64 glibc-langpack-id-0:2.32-4.fc33.x86_64 glibc-langpack-ig-0:2.32-4.fc33.x86_64 glibc-langpack-ik-0:2.32-4.fc33.x86_64 glibc-langpack-is-0:2.32-4.fc33.x86_64 glibc-langpack-it-0:2.32-4.fc33.x86_64 glibc-langpack-iu-0:2.32-4.fc33.x86_64 glibc-langpack-ja-0:2.32-4.fc33.x86_64 glibc-langpack-ka-0:2.32-4.fc33.x86_64 glibc-langpack-kab-0:2.32-4.fc33.x86_64 glibc-langpack-kk-0:2.32-4.fc33.x86_64 glibc-langpack-kl-0:2.32-4.fc33.x86_64 glibc-langpack-km-0:2.32-4.fc33.x86_64 glibc-langpack-kn-0:2.32-4.fc33.x86_64 glibc-langpack-ko-0:2.32-4.fc33.x86_64 glibc-langpack-kok-0:2.32-4.fc33.x86_64 glibc-langpack-ks-0:2.32-4.fc33.x86_64 glibc-langpack-ku-0:2.32-4.fc33.x86_64 glibc-langpack-kw-0:2.32-4.fc33.x86_64 glibc-langpack-ky-0:2.32-4.fc33.x86_64 glibc-langpack-lb-0:2.32-4.fc33.x86_64 glibc-langpack-lg-0:2.32-4.fc33.x86_64 glibc-langpack-li-0:2.32-4.fc33.x86_64 glibc-langpack-lij-0:2.32-4.fc33.x86_64 glibc-langpack-ln-0:2.32-4.fc33.x86_64 glibc-langpack-lo-0:2.32-4.fc33.x86_64 glibc-langpack-lt-0:2.32-4.fc33.x86_64 glibc-langpack-lv-0:2.32-4.fc33.x86_64 glibc-langpack-lzh-0:2.32-4.fc33.x86_64 glibc-langpack-mag-0:2.32-4.fc33.x86_64 glibc-langpack-mai-0:2.32-4.fc33.x86_64 glibc-langpack-mfe-0:2.32-4.fc33.x86_64 glibc-langpack-mg-0:2.32-4.fc33.x86_64 glibc-langpack-mhr-0:2.32-4.fc33.x86_64 glibc-langpack-mi-0:2.32-4.fc33.x86_64 glibc-langpack-miq-0:2.32-4.fc33.x86_64 glibc-langpack-mjw-0:2.32-4.fc33.x86_64 glibc-langpack-mk-0:2.32-4.fc33.x86_64 glibc-langpack-ml-0:2.32-4.fc33.x86_64 glibc-langpack-mn-0:2.32-4.fc33.x86_64 glibc-langpack-mni-0:2.32-4.fc33.x86_64 glibc-langpack-mnw-0:2.32-4.fc33.x86_64 glibc-langpack-mr-0:2.32-4.fc33.x86_64 glibc-langpack-ms-0:2.32-4.fc33.x86_64 glibc-langpack-mt-0:2.32-4.fc33.x86_64 glibc-langpack-my-0:2.32-4.fc33.x86_64 glibc-langpack-nan-0:2.32-4.fc33.x86_64 glibc-langpack-nb-0:2.32-4.fc33.x86_64 glibc-langpack-nds-0:2.32-4.fc33.x86_64 glibc-langpack-ne-0:2.32-4.fc33.x86_64 glibc-langpack-nhn-0:2.32-4.fc33.x86_64 glibc-langpack-niu-0:2.32-4.fc33.x86_64 glibc-langpack-nl-0:2.32-4.fc33.x86_64 glibc-langpack-nn-0:2.32-4.fc33.x86_64 glibc-langpack-nr-0:2.32-4.fc33.x86_64 glibc-langpack-nso-0:2.32-4.fc33.x86_64 glibc-langpack-oc-0:2.32-4.fc33.x86_64 glibc-langpack-om-0:2.32-4.fc33.x86_64 glibc-langpack-or-0:2.32-4.fc33.x86_64 glibc-langpack-os-0:2.32-4.fc33.x86_64 glibc-langpack-pa-0:2.32-4.fc33.x86_64 glibc-langpack-pap-0:2.32-4.fc33.x86_64 glibc-langpack-pl-0:2.32-4.fc33.x86_64 glibc-langpack-ps-0:2.32-4.fc33.x86_64 glibc-langpack-pt-0:2.32-4.fc33.x86_64 glibc-langpack-quz-0:2.32-4.fc33.x86_64 glibc-langpack-raj-0:2.32-4.fc33.x86_64 glibc-langpack-ro-0:2.32-4.fc33.x86_64 glibc-langpack-ru-0:2.32-4.fc33.x86_64 glibc-langpack-rw-0:2.32-4.fc33.x86_64 glibc-langpack-sa-0:2.32-4.fc33.x86_64 glibc-langpack-sah-0:2.32-4.fc33.x86_64 glibc-langpack-sat-0:2.32-4.fc33.x86_64 glibc-langpack-sc-0:2.32-4.fc33.x86_64 glibc-langpack-sd-0:2.32-4.fc33.x86_64 glibc-langpack-se-0:2.32-4.fc33.x86_64 glibc-langpack-sgs-0:2.32-4.fc33.x86_64 glibc-langpack-shn-0:2.32-4.fc33.x86_64 glibc-langpack-shs-0:2.32-4.fc33.x86_64 glibc-langpack-si-0:2.32-4.fc33.x86_64 glibc-langpack-sid-0:2.32-4.fc33.x86_64 glibc-langpack-sk-0:2.32-4.fc33.x86_64 glibc-langpack-sl-0:2.32-4.fc33.x86_64 glibc-langpack-sm-0:2.32-4.fc33.x86_64 glibc-langpack-so-0:2.32-4.fc33.x86_64 glibc-langpack-sq-0:2.32-4.fc33.x86_64 glibc-langpack-sr-0:2.32-4.fc33.x86_64 glibc-langpack-ss-0:2.32-4.fc33.x86_64 glibc-langpack-st-0:2.32-4.fc33.x86_64 glibc-langpack-sv-0:2.32-4.fc33.x86_64 glibc-langpack-sw-0:2.32-4.fc33.x86_64 glibc-langpack-szl-0:2.32-4.fc33.x86_64 glibc-langpack-ta-0:2.32-4.fc33.x86_64 glibc-langpack-tcy-0:2.32-4.fc33.x86_64 glibc-langpack-te-0:2.32-4.fc33.x86_64 glibc-langpack-tg-0:2.32-4.fc33.x86_64 glibc-langpack-th-0:2.32-4.fc33.x86_64 glibc-langpack-the-0:2.32-4.fc33.x86_64 glibc-langpack-ti-0:2.32-4.fc33.x86_64 glibc-langpack-tig-0:2.32-4.fc33.x86_64 glibc-langpack-tk-0:2.32-4.fc33.x86_64 glibc-langpack-tl-0:2.32-4.fc33.x86_64 glibc-langpack-tn-0:2.32-4.fc33.x86_64 glibc-langpack-to-0:2.32-4.fc33.x86_64 glibc-langpack-tpi-0:2.32-4.fc33.x86_64 glibc-langpack-tr-0:2.32-4.fc33.x86_64 glibc-langpack-ts-0:2.32-4.fc33.x86_64 glibc-langpack-tt-0:2.32-4.fc33.x86_64 glibc-langpack-ug-0:2.32-4.fc33.x86_64 glibc-langpack-uk-0:2.32-4.fc33.x86_64 glibc-langpack-unm-0:2.32-4.fc33.x86_64 glibc-langpack-ur-0:2.32-4.fc33.x86_64 glibc-langpack-uz-0:2.32-4.fc33.x86_64 glibc-langpack-ve-0:2.32-4.fc33.x86_64 glibc-langpack-vi-0:2.32-4.fc33.x86_64 glibc-langpack-wa-0:2.32-4.fc33.x86_64 glibc-langpack-wae-0:2.32-4.fc33.x86_64 glibc-langpack-wal-0:2.32-4.fc33.x86_64 glibc-langpack-wo-0:2.32-4.fc33.x86_64 glibc-langpack-xh-0:2.32-4.fc33.x86_64 glibc-langpack-yi-0:2.32-4.fc33.x86_64 glibc-langpack-yo-0:2.32-4.fc33.x86_64 glibc-langpack-yue-0:2.32-4.fc33.x86_64 glibc-langpack-yuw-0:2.32-4.fc33.x86_64 glibc-langpack-zh-0:2.32-4.fc33.x86_64 glibc-langpack-zu-0:2.32-4.fc33.x86_64 glibc-minimal-langpack-0:2.32-4.fc33.x86_64 libgcc-0:10.2.1-9.fc33.x86_64
+----------------------------------------------------------------------------------------------------------
+gmp-devel.x86_64
+----------------------------------------------------------------------------------------------------------
+gmp-1:6.2.0-5.fc33.x86_64 gmp-c++-1:6.2.0-5.fc33.x86_64 gmp-devel-1:6.2.0-5.fc33.i686 gmp-devel-1:6.2.0-5.fc33.x86_64 pkgconf-pkg-config-0:1.7.3-5.fc33.i686 pkgconf-pkg-config-0:1.7.3-5.fc33.x86_64
+----------------------------------------------------------------------------------------------------------
+golang
+----------------------------------------------------------------------------------------------------------
+go-srpm-macros-0:3.0.9-1.fc33.noarch golang-bin-0:1.15.8-1.fc33.x86_64 golang-src-0:1.15.8-1.fc33.noarch
+----------------------------------------------------------------------------------------------------------
+gtest-devel.x86_64
+----------------------------------------------------------------------------------------------------------
+cmake-filesystem-0:3.18.4-2.fc33.x86_64 gtest-0:1.10.0-3.fc33.i686 gtest-0:1.10.0-3.fc33.x86_64 pkgconf-pkg-config-0:1.7.3-5.fc33.i686 pkgconf-pkg-config-0:1.7.3-5.fc33.x86_64
+----------------------------------------------------------------------------------------------------------
+gtest.x86_64
+----------------------------------------------------------------------------------------------------------
+glibc-0:2.32-4.fc33.i686 glibc-0:2.32-4.fc33.x86_64 libgcc-0:10.2.1-9.fc33.x86_64 libstdc++-0:10.2.1-9.fc33.x86_64
+----------------------------------------------------------------------------------------------------------
+irrlicht-devel.x86_64
+----------------------------------------------------------------------------------------------------------
+irrXML-devel-0:1.8.4-15.fc33.x86_64 irrlicht-0:1.8.4-15.fc33.x86_64 libXxf86vm-devel-0:1.1.4-14.fc33.i686 libXxf86vm-devel-0:1.1.4-14.fc33.x86_64 libjpeg-turbo-devel-0:2.0.5-5.fc33.i686 libjpeg-turbo-devel-0:2.0.5-5.fc33.x86_64 libpng-devel-2:1.6.37-6.fc33.i686 libpng-devel-2:1.6.37-6.fc33.x86_64 mesa-libGL-devel-0:20.3.4-2.fc33.i686 mesa-libGL-devel-0:20.3.4-2.fc33.x86_64 mesa-libGLU-devel-0:9.0.1-3.fc33.i686 mesa-libGLU-devel-0:9.0.1-3.fc33.x86_64 zlib-devel-0:1.2.11-23.fc33.i686 zlib-devel-0:1.2.11-23.fc33.x86_64
+----------------------------------------------------------------------------------------------------------
+irrlicht.x86_64
+----------------------------------------------------------------------------------------------------------
+bzip2-libs-0:1.0.8-4.fc33.x86_64 glibc-0:2.32-4.fc33.i686 glibc-0:2.32-4.fc33.x86_64 irrXML-0:1.8.4-15.fc33.x86_64 libXxf86vm-0:1.1.4-14.fc33.x86_64 libaesgm-0:20090429-23.fc33.x86_64 libgcc-0:10.2.1-9.fc33.x86_64 libglvnd-glx-1:1.3.2-2.fc33.x86_64 libjpeg-turbo-0:2.0.5-5.fc33.x86_64 libpng-2:1.6.37-6.fc33.x86_64 libstdc++-0:10.2.1-9.fc33.x86_64 zlib-0:1.2.11-23.fc33.x86_64
+----------------------------------------------------------------------------------------------------------
+java-11-openjdk-11.0.10.0.9-0.fc32.x86_64
+----------------------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------------------
+java-11-openjdk-devel-11.0.10.0.9-0.fc32.x86_64
+----------------------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------------------
+ksh.x86_64
+----------------------------------------------------------------------------------------------------------
+bash-0:5.0.17-2.fc33.x86_64 coreutils-0:8.32-18.fc33.x86_64 coreutils-single-0:8.32-18.fc33.x86_64 glibc-0:2.32-4.fc33.i686 glibc-0:2.32-4.fc33.x86_64 grep-0:3.4-5.fc33.x86_64 sed-0:4.8-5.fc33.x86_64 systemd-0:246.10-1.fc33.i686 systemd-0:246.10-1.fc33.x86_64
+----------------------------------------------------------------------------------------------------------
+langpacks-en
+----------------------------------------------------------------------------------------------------------
+langpacks-core-en-0:3.0-4.fc33.noarch
+----------------------------------------------------------------------------------------------------------
+libcaca-devel.x86_64
+----------------------------------------------------------------------------------------------------------
+bash-0:5.0.17-2.fc33.x86_64 freeglut-devel-0:3.2.1-6.fc33.i686 freeglut-devel-0:3.2.1-6.fc33.x86_64 imlib2-devel-0:1.6.1-2.fc33.i686 imlib2-devel-0:1.6.1-2.fc33.x86_64 libX11-devel-0:1.6.12-3.fc33.i686 libX11-devel-0:1.6.12-3.fc33.x86_64 libcaca-0:0.99-0.51.beta19.fc33.i686 libcaca-0:0.99-0.51.beta19.fc33.x86_64 mesa-libGLU-devel-0:9.0.1-3.fc33.i686 mesa-libGLU-devel-0:9.0.1-3.fc33.x86_64 ncurses-devel-0:6.2-3.20200222.fc33.i686 ncurses-devel-0:6.2-3.20200222.fc33.x86_64 pango-devel-0:1.48.3-1.fc33.i686 pango-devel-0:1.48.3-1.fc33.x86_64 pkgconf-pkg-config-0:1.7.3-5.fc33.i686 pkgconf-pkg-config-0:1.7.3-5.fc33.x86_64 slang-devel-0:2.3.2-8.fc33.i686 slang-devel-0:2.3.2-8.fc33.x86_64
+----------------------------------------------------------------------------------------------------------
+libcaca.x86_64
+----------------------------------------------------------------------------------------------------------
+freeglut-0:3.2.1-6.fc33.x86_64 glib2-0:2.66.7-1.fc33.x86_64 glibc-0:2.32-4.fc33.i686 glibc-0:2.32-4.fc33.x86_64 libX11-0:1.6.12-3.fc33.x86_64 libgcc-0:10.2.1-9.fc33.x86_64 libglvnd-glx-1:1.3.2-2.fc33.x86_64 libstdc++-0:10.2.1-9.fc33.x86_64 mesa-libGLU-0:9.0.1-3.fc33.x86_64 ncurses-libs-0:6.2-3.20200222.fc33.x86_64 slang-0:2.3.2-8.fc33.x86_64 zlib-0:1.2.11-23.fc33.x86_64
+----------------------------------------------------------------------------------------------------------
+libgudev-devel
+----------------------------------------------------------------------------------------------------------
+glib2-devel-0:2.66.7-1.fc33.i686 glib2-devel-0:2.66.7-1.fc33.x86_64 libgudev-0:234-1.fc33.i686 libgudev-0:234-1.fc33.x86_64 pkgconf-pkg-config-0:1.7.3-5.fc33.i686 pkgconf-pkg-config-0:1.7.3-5.fc33.x86_64
+----------------------------------------------------------------------------------------------------------
+libjpeg-turbo-devel.x86_64
+----------------------------------------------------------------------------------------------------------
+libjpeg-turbo-0:2.0.5-5.fc33.x86_64 pkgconf-pkg-config-0:1.7.3-5.fc33.i686 pkgconf-pkg-config-0:1.7.3-5.fc33.x86_64
+----------------------------------------------------------------------------------------------------------
+libtsan
+----------------------------------------------------------------------------------------------------------
+glibc-0:2.32-4.fc33.i686 glibc-0:2.32-4.fc33.x86_64 libgcc-0:10.2.1-9.fc33.x86_64 libstdc++-0:10.2.1-9.fc33.x86_64
+----------------------------------------------------------------------------------------------------------
+libvorbis-devel.x86_64
+----------------------------------------------------------------------------------------------------------
+libogg-devel-2:1.3.4-3.fc33.i686 libogg-devel-2:1.3.4-3.fc33.x86_64 libvorbis-1:1.3.7-2.fc33.x86_64 libvorbis-devel-1:1.3.7-2.fc33.i686 libvorbis-devel-1:1.3.7-2.fc33.x86_64 pkgconf-pkg-config-0:1.7.3-5.fc33.i686 pkgconf-pkg-config-0:1.7.3-5.fc33.x86_64
+----------------------------------------------------------------------------------------------------------
+libX11-devel.x86_64
+----------------------------------------------------------------------------------------------------------
+libX11-0:1.6.12-3.fc33.i686 libX11-0:1.6.12-3.fc33.x86_64 libX11-devel-0:1.6.12-3.fc33.i686 libX11-devel-0:1.6.12-3.fc33.x86_64 libX11-xcb-0:1.6.12-3.fc33.i686 libX11-xcb-0:1.6.12-3.fc33.x86_64 libxcb-devel-0:1.13.1-5.fc33.i686 libxcb-devel-0:1.13.1-5.fc33.x86_64 pkgconf-pkg-config-0:1.7.3-5.fc33.i686 pkgconf-pkg-config-0:1.7.3-5.fc33.x86_64 xorg-x11-proto-devel-0:2019.1-4.fc33.noarch
+----------------------------------------------------------------------------------------------------------
+libXext-devel.x86_64
+----------------------------------------------------------------------------------------------------------
+libX11-devel-0:1.6.12-3.fc33.i686 libX11-devel-0:1.6.12-3.fc33.x86_64 libXext-0:1.3.4-4.fc33.i686 libXext-0:1.3.4-4.fc33.x86_64 pkgconf-pkg-config-0:1.7.3-5.fc33.i686 pkgconf-pkg-config-0:1.7.3-5.fc33.x86_64 xorg-x11-proto-devel-0:2019.1-4.fc33.noarch
+----------------------------------------------------------------------------------------------------------
+llvm-devel.x86_64
+----------------------------------------------------------------------------------------------------------
+alternatives-0:1.14-3.fc33.x86_64 bash-0:5.0.17-2.fc33.x86_64 cmake-filesystem-0:3.18.4-2.fc33.x86_64 glibc-0:2.32-4.fc33.i686 glibc-0:2.32-4.fc33.x86_64 libedit-devel-0:3.1-33.20191231cvs.fc33.i686 libedit-devel-0:3.1-33.20191231cvs.fc33.x86_64 libstdc++-0:10.2.1-9.fc33.x86_64 llvm-0:11.0.0-1.fc33.x86_64 llvm-libs-0:11.0.0-1.fc33.x86_64 llvm-static-0:11.0.0-1.fc33.x86_64 llvm-test-0:11.0.0-1.fc33.x86_64
+----------------------------------------------------------------------------------------------------------
+llvm.x86_64
+----------------------------------------------------------------------------------------------------------
+glibc-0:2.32-4.fc33.i686 glibc-0:2.32-4.fc33.x86_64 libgcc-0:10.2.1-9.fc33.x86_64 libstdc++-0:10.2.1-9.fc33.x86_64 llvm-libs-0:11.0.0-1.fc33.x86_64 ncurses-libs-0:6.2-3.20200222.fc33.x86_64 python3-0:3.9.2-1.fc33.i686 python3-0:3.9.2-1.fc33.x86_64 zlib-0:1.2.11-23.fc33.x86_64
+----------------------------------------------------------------------------------------------------------
+ltrace.x86_64
+----------------------------------------------------------------------------------------------------------
+elfutils-libelf-0:0.183-1.fc33.x86_64 elfutils-libs-0:0.183-1.fc33.x86_64 glibc-0:2.32-4.fc33.i686 glibc-0:2.32-4.fc33.x86_64 libselinux-0:3.1-2.fc33.x86_64 libstdc++-0:10.2.1-9.fc33.x86_64
+----------------------------------------------------------------------------------------------------------
+make.x86_64
+----------------------------------------------------------------------------------------------------------
+glibc-0:2.32-4.fc33.i686 glibc-0:2.32-4.fc33.x86_64 guile22-0:2.2.7-1.fc33.x86_64
+----------------------------------------------------------------------------------------------------------
+maven
+----------------------------------------------------------------------------------------------------------
+alternatives-0:1.14-3.fc33.x86_64 aopalliance-0:1.0-24.fc33.noarch apache-commons-cli-0:1.4-11.fc33.noarch apache-commons-codec-0:1.13-4.fc33.noarch apache-commons-io-1:2.6-10.fc33.noarch apache-commons-lang3-0:3.11-1.fc33.noarch apache-commons-logging-0:1.2-23.fc33.noarch atinject-0:1-35.20100611svn86.fc33.noarch bash-0:5.0.17-2.fc33.x86_64 cdi-api-0:1.2-14.fc33.noarch google-guice-0:4.2.3-3.fc33.noarch guava-0:25.0-9.fc33.noarch hawtjni-runtime-0:1.17-6.fc33.noarch httpcomponents-client-0:4.5.10-5.fc33.noarch httpcomponents-core-0:4.4.12-4.fc33.noarch jakarta-annotations-0:1.3.5-6.fc33.noarch jansi-0:1.18-5.fc33.noarch jansi-native-0:1.8-5.fc33.x86_64 jcl-over-slf4j-0:1.7.30-6.fc33.noarch maven-lib-1:3.6.3-5.fc33.noarch maven-resolver-api-1:1.4.2-4.fc33.noarch maven-resolver-connector-basic-1:1.4.2-4.fc33.noarch maven-resolver-impl-1:1.4.2-4.fc33.noarch maven-resolver-spi-1:1.4.2-4.fc33.noarch maven-resolver-transport-wagon-1:1.4.2-4.fc33.noarch maven-resolver-util-1:1.4.2-4.fc33.noarch maven-shared-utils-0:3.2.1-0.7.fc33.noarch maven-wagon-file-0:3.4.1-3.fc33.noarch maven-wagon-http-0:3.4.1-3.fc33.noarch maven-wagon-http-shared-0:3.4.1-3.fc33.noarch maven-wagon-provider-api-0:3.4.1-3.fc33.noarch plexus-cipher-0:1.7-21.fc33.noarch plexus-classworlds-0:2.6.0-5.fc33.noarch plexus-containers-component-annotations-0:2.1.0-4.fc33.noarch plexus-interpolation-0:1.26-5.fc33.noarch plexus-sec-dispatcher-0:1.4-31.fc33.noarch plexus-utils-0:3.3.0-4.fc33.noarch sisu-inject-1:0.3.4-3.fc33.noarch sisu-plexus-1:0.3.4-3.fc33.noarch slf4j-0:1.7.30-6.fc33.noarch
+----------------------------------------------------------------------------------------------------------
+nasm.x86_64
+----------------------------------------------------------------------------------------------------------
+glibc-0:2.32-4.fc33.i686 glibc-0:2.32-4.fc33.x86_64
+----------------------------------------------------------------------------------------------------------
+nc
+----------------------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------------------
+ncurses-devel.x86_64
+----------------------------------------------------------------------------------------------------------
+bash-0:5.0.17-2.fc33.x86_64 ncurses-c++-libs-0:6.2-3.20200222.fc33.x86_64 ncurses-devel-0:6.2-3.20200222.fc33.i686 ncurses-devel-0:6.2-3.20200222.fc33.x86_64 ncurses-libs-0:6.2-3.20200222.fc33.x86_64 pkgconf-pkg-config-0:1.7.3-5.fc33.i686 pkgconf-pkg-config-0:1.7.3-5.fc33.x86_64
+----------------------------------------------------------------------------------------------------------
+ncurses-libs
+----------------------------------------------------------------------------------------------------------
+glibc-0:2.32-4.fc33.i686 glibc-0:2.32-4.fc33.x86_64 ncurses-base-0:6.2-3.20200222.fc33.noarch
+----------------------------------------------------------------------------------------------------------
+ncurses.x86_64
+----------------------------------------------------------------------------------------------------------
+glibc-0:2.32-4.fc33.i686 glibc-0:2.32-4.fc33.x86_64 ncurses-libs-0:6.2-3.20200222.fc33.x86_64
+----------------------------------------------------------------------------------------------------------
+net-tools.x86_64
+----------------------------------------------------------------------------------------------------------
+bash-0:5.0.17-2.fc33.x86_64 glibc-0:2.32-4.fc33.i686 glibc-0:2.32-4.fc33.x86_64 libselinux-0:3.1-2.fc33.x86_64 systemd-0:246.10-1.fc33.i686 systemd-0:246.10-1.fc33.x86_64
+----------------------------------------------------------------------------------------------------------
+nodejs
+----------------------------------------------------------------------------------------------------------
+bash-0:5.0.17-2.fc33.x86_64 ca-certificates-0:2020.2.41-4.fc33.noarch glibc-0:2.32-4.fc33.i686 glibc-0:2.32-4.fc33.x86_64 libnghttp2-0:1.43.0-1.fc33.i686 libnghttp2-0:1.43.0-1.fc33.x86_64 libuv-1:1.40.0-1.fc33.i686 libuv-1:1.40.0-1.fc33.x86_64 nodejs-libs-1:14.16.0-1.fc33.i686 nodejs-libs-1:14.16.0-1.fc33.x86_64 nodejs-packaging-0:2021.01-2.fc33.noarch openssl-1:1.1.1j-1.fc33.x86_64
+----------------------------------------------------------------------------------------------------------
+openal-soft-devel.x86_64
+----------------------------------------------------------------------------------------------------------
+cmake-filesystem-0:3.18.4-2.fc33.x86_64 glibc-0:2.32-4.fc33.i686 glibc-0:2.32-4.fc33.x86_64 openal-soft-0:1.19.1-9.fc33.x86_64 pkgconf-pkg-config-0:1.7.3-5.fc33.i686 pkgconf-pkg-config-0:1.7.3-5.fc33.x86_64
+----------------------------------------------------------------------------------------------------------
+openssl-devel
+----------------------------------------------------------------------------------------------------------
+compat-openssl10-devel-1:1.0.2o-11.fc33.i686 compat-openssl10-devel-1:1.0.2o-11.fc33.x86_64 openssl-devel-1:1.1.1j-1.fc33.i686 openssl-devel-1:1.1.1j-1.fc33.x86_64 openssl-libs-1:1.1.1j-1.fc33.i686 openssl-libs-1:1.1.1j-1.fc33.x86_64 pkgconf-pkg-config-0:1.7.3-5.fc33.i686 pkgconf-pkg-config-0:1.7.3-5.fc33.x86_64
+----------------------------------------------------------------------------------------------------------
+patch
+----------------------------------------------------------------------------------------------------------
+ed-0:1.14.2-9.fc33.x86_64 glibc-0:2.32-4.fc33.i686 glibc-0:2.32-4.fc33.x86_64 libattr-0:2.4.48-10.fc33.x86_64 libselinux-0:3.1-2.fc33.x86_64
+----------------------------------------------------------------------------------------------------------
+php-bcmath.x86_64
+----------------------------------------------------------------------------------------------------------
+glibc-0:2.32-4.fc33.i686 glibc-0:2.32-4.fc33.x86_64 php-common-0:7.4.16-1.fc33.x86_64
+----------------------------------------------------------------------------------------------------------
+php-cli.x86_64
+----------------------------------------------------------------------------------------------------------
+bash-0:5.0.17-2.fc33.x86_64 glibc-0:2.32-4.fc33.i686 glibc-0:2.32-4.fc33.x86_64 libedit-0:3.1-33.20191231cvs.fc33.x86_64 libxml2-0:2.9.10-8.fc33.x86_64 openssl-libs-1:1.1.1j-1.fc33.x86_64 pcre2-0:10.36-4.fc33.x86_64 php-common-0:7.4.16-1.fc33.x86_64 zlib-0:1.2.11-23.fc33.x86_64
+----------------------------------------------------------------------------------------------------------
+php-devel.x86_64
+----------------------------------------------------------------------------------------------------------
+autoconf-0:2.69-34.fc33.noarch automake-0:1.16.2-2.fc33.noarch bash-0:5.0.17-2.fc33.x86_64 gcc-0:10.2.1-9.fc33.x86_64 gcc-c++-0:10.2.1-3.fc33.i686 gcc-c++-0:10.2.1-9.fc33.x86_64 krb5-devel-0:1.18.2-29.fc33.x86_64 libtool-0:2.4.6-36.fc33.x86_64 libxml2-devel-0:2.9.10-8.fc33.x86_64 make-1:4.3-2.fc33.x86_64 openssl-devel-1:1.1.1j-1.fc33.x86_64 pcre2-devel-0:10.36-4.fc33.x86_64 php-cli-0:7.4.16-1.fc33.x86_64 zlib-devel-0:1.2.11-23.fc33.x86_64
+----------------------------------------------------------------------------------------------------------
+php-devel.x86_64
+----------------------------------------------------------------------------------------------------------
+autoconf-0:2.69-34.fc33.noarch automake-0:1.16.2-2.fc33.noarch bash-0:5.0.17-2.fc33.x86_64 gcc-0:10.2.1-9.fc33.x86_64 gcc-c++-0:10.2.1-3.fc33.i686 gcc-c++-0:10.2.1-9.fc33.x86_64 krb5-devel-0:1.18.2-29.fc33.x86_64 libtool-0:2.4.6-36.fc33.x86_64 libxml2-devel-0:2.9.10-8.fc33.x86_64 make-1:4.3-2.fc33.x86_64 openssl-devel-1:1.1.1j-1.fc33.x86_64 pcre2-devel-0:10.36-4.fc33.x86_64 php-cli-0:7.4.16-1.fc33.x86_64 zlib-devel-0:1.2.11-23.fc33.x86_64
+----------------------------------------------------------------------------------------------------------
+php-gd.x86_64
+----------------------------------------------------------------------------------------------------------
+gd-0:2.3.0-3.fc33.x86_64 glibc-0:2.32-4.fc33.i686 glibc-0:2.32-4.fc33.x86_64 php-common-0:7.4.16-1.fc33.x86_64
+----------------------------------------------------------------------------------------------------------
+php-gettext-gettext.noarch
+----------------------------------------------------------------------------------------------------------
+php-common-0:7.4.16-1.fc33.x86_64 php-gettext-languages-0:2.6.0-2.fc33.noarch php-json-0:7.4.16-1.fc33.x86_64 php-xml-0:7.4.16-1.fc33.x86_64
+----------------------------------------------------------------------------------------------------------
+php-json.x86_64
+----------------------------------------------------------------------------------------------------------
+glibc-0:2.32-4.fc33.i686 glibc-0:2.32-4.fc33.x86_64 php-common-0:7.4.16-1.fc33.x86_64
+----------------------------------------------------------------------------------------------------------
+php-mbstring.x86_64
+----------------------------------------------------------------------------------------------------------
+glibc-0:2.32-4.fc33.i686 glibc-0:2.32-4.fc33.x86_64 oniguruma-0:6.9.6-1.fc33.x86_64 php-common-0:7.4.16-1.fc33.x86_64
+----------------------------------------------------------------------------------------------------------
+php-mysqlnd.x86_64
+----------------------------------------------------------------------------------------------------------
+glibc-0:2.32-4.fc33.i686 glibc-0:2.32-4.fc33.x86_64 php-pdo-0:7.4.16-1.fc33.x86_64
+----------------------------------------------------------------------------------------------------------
+php-pdo.x86_64
+----------------------------------------------------------------------------------------------------------
+glibc-0:2.32-4.fc33.i686 glibc-0:2.32-4.fc33.x86_64 php-common-0:7.4.16-1.fc33.x86_64 sqlite-libs-0:3.34.1-1.fc33.x86_64
+----------------------------------------------------------------------------------------------------------
+php-pdo.x86_64
+----------------------------------------------------------------------------------------------------------
+glibc-0:2.32-4.fc33.i686 glibc-0:2.32-4.fc33.x86_64 php-common-0:7.4.16-1.fc33.x86_64 sqlite-libs-0:3.34.1-1.fc33.x86_64
+----------------------------------------------------------------------------------------------------------
+php-pear.noarch
+----------------------------------------------------------------------------------------------------------
+bash-0:5.0.17-2.fc33.x86_64 httpd-filesystem-0:2.4.46-9.fc33.noarch php-cli-0:7.4.16-1.fc33.x86_64 php-common-0:7.4.16-1.fc33.x86_64 php-fedora-autoloader-0:1.0.1-3.fc33.noarch php-process-0:7.4.16-1.fc33.x86_64 php-xml-0:7.4.16-1.fc33.x86_64
+----------------------------------------------------------------------------------------------------------
+php-phar-io-version.noarch
+----------------------------------------------------------------------------------------------------------
+php-common-0:7.4.16-1.fc33.x86_64 php-fedora-autoloader-0:1.0.1-3.fc33.noarch
+----------------------------------------------------------------------------------------------------------
+php-theseer-tokenizer.noarch
+----------------------------------------------------------------------------------------------------------
+php-common-0:7.4.16-1.fc33.x86_64 php-fedora-autoloader-0:1.0.1-3.fc33.noarch php-xml-0:7.4.16-1.fc33.x86_64
+----------------------------------------------------------------------------------------------------------
+php.x86_64
+----------------------------------------------------------------------------------------------------------
+php-common-0:7.4.16-1.fc33.x86_64
+----------------------------------------------------------------------------------------------------------
+php-xml.x86_64
+----------------------------------------------------------------------------------------------------------
+glibc-0:2.32-4.fc33.i686 glibc-0:2.32-4.fc33.x86_64 libxml2-0:2.9.10-8.fc33.x86_64 libxslt-0:1.1.34-4.fc33.x86_64 php-common-0:7.4.16-1.fc33.x86_64
+----------------------------------------------------------------------------------------------------------
+procps-ng.x86_64
+----------------------------------------------------------------------------------------------------------
+glibc-0:2.32-4.fc33.i686 glibc-0:2.32-4.fc33.x86_64 ncurses-libs-0:6.2-3.20200222.fc33.x86_64 systemd-libs-0:246.10-1.fc33.x86_64
+----------------------------------------------------------------------------------------------------------
+python3-devel.x86_64
+----------------------------------------------------------------------------------------------------------
+bash-0:5.0.17-2.fc33.x86_64 pkgconf-pkg-config-0:1.7.3-5.fc33.i686 pkgconf-pkg-config-0:1.7.3-5.fc33.x86_64 python-rpm-macros-0:3.9-14.fc33.noarch python3-0:3.9.2-1.fc33.i686 python3-0:3.9.2-1.fc33.x86_64 python3-libs-0:3.9.2-1.fc33.x86_64 python3-rpm-generators-0:11-11.fc33.noarch python3-rpm-macros-0:3.9-14.fc33.noarch python3-setuptools-0:49.1.3-1.fc33.noarch
+----------------------------------------------------------------------------------------------------------
+python3-virtualenv
+----------------------------------------------------------------------------------------------------------
+python-pip-wheel-0:20.2.2-1.fc33.noarch python-setuptools-wheel-0:49.1.3-1.fc33.noarch python-wheel-wheel-1:0.34.2-1.fc33.noarch python3-0:3.9.2-1.fc33.i686 python3-0:3.9.2-1.fc33.x86_64 python3-appdirs-0:1.4.3-15.fc33.noarch python3-distlib-0:0.3.1-2.fc33.noarch python3-filelock-0:3.0.12-8.fc33.noarch python3-setuptools-0:49.1.3-1.fc33.noarch python3-six-0:1.15.0-2.fc33.noarch
+----------------------------------------------------------------------------------------------------------
+python3-virtualenv-api
+----------------------------------------------------------------------------------------------------------
+python3-0:3.9.2-1.fc33.i686 python3-0:3.9.2-1.fc33.x86_64 python3-pip-0:20.2.2-1.fc33.noarch python3-six-0:1.15.0-2.fc33.noarch python3-virtualenv-0:20.0.30-1.fc33.noarch
+----------------------------------------------------------------------------------------------------------
+python3.x86_64
+----------------------------------------------------------------------------------------------------------
+glibc-0:2.32-4.fc33.i686 glibc-0:2.32-4.fc33.x86_64 python3-libs-0:3.9.2-1.fc33.x86_64
+----------------------------------------------------------------------------------------------------------
+qt5
+----------------------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------------------
+qt5-devel
+----------------------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------------------
+rlwrap.x86_64
+----------------------------------------------------------------------------------------------------------
+glibc-0:2.32-4.fc33.i686 glibc-0:2.32-4.fc33.x86_64 ncurses-libs-0:6.2-3.20200222.fc33.x86_64 perl-AutoLoader-0:5.74-468.fc33.noarch perl-Carp-0:1.50-457.fc33.noarch perl-Data-Dumper-0:2.174-459.fc33.x86_64 perl-Exporter-0:5.74-458.fc33.noarch perl-Getopt-Std-0:1.12-468.fc33.noarch perl-POSIX-0:1.94-468.fc33.x86_64 perl-constant-0:1.33-458.fc33.noarch perl-interpreter-4:5.32.1-468.fc33.x86_64 perl-lib-0:0.65-468.fc33.x86_64 perl-libs-4:5.32.1-468.fc33.i686 perl-libs-4:5.32.1-468.fc33.x86_64 perl-vars-0:1.05-468.fc33.noarch python3-0:3.9.2-1.fc33.i686 python3-0:3.9.2-1.fc33.x86_64 readline-0:8.0-5.fc33.x86_64 rlwrap-0:0.44-1.fc33.x86_64
+----------------------------------------------------------------------------------------------------------
+ruby.x86_64
+----------------------------------------------------------------------------------------------------------
+glibc-0:2.32-4.fc33.i686 glibc-0:2.32-4.fc33.x86_64 ruby-libs-0:2.7.2-135.fc33.x86_64 rubypick-0:1.1.1-13.fc33.noarch
+----------------------------------------------------------------------------------------------------------
+rust.x86_64
+----------------------------------------------------------------------------------------------------------
+gcc-0:10.2.1-9.fc33.x86_64 glibc-0:2.32-4.fc33.i686 glibc-0:2.32-4.fc33.x86_64 libgcc-0:10.2.1-9.fc33.x86_64 libstdc++-0:10.2.1-9.fc33.x86_64 llvm-libs-0:11.0.0-1.fc33.x86_64 rust-std-static-0:1.50.0-1.fc33.x86_64
+----------------------------------------------------------------------------------------------------------
+SDL2
+----------------------------------------------------------------------------------------------------------
+glibc-0:2.32-4.fc33.i686 glibc-0:2.32-4.fc33.x86_64
+----------------------------------------------------------------------------------------------------------
+SDL2-devel.x86_64
+----------------------------------------------------------------------------------------------------------
+SDL2-0:2.0.14-1.fc33.x86_64 bash-0:5.0.17-2.fc33.x86_64 libX11-devel-0:1.6.12-3.fc33.x86_64 libglvnd-devel-1:1.3.2-2.fc33.x86_64 mesa-libEGL-devel-0:20.3.4-2.fc33.x86_64 pkgconf-pkg-config-0:1.7.3-5.fc33.i686 pkgconf-pkg-config-0:1.7.3-5.fc33.x86_64
+----------------------------------------------------------------------------------------------------------
+SDL2-static.x86_64
+----------------------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------------------
+SFML-devel.x86_64
+----------------------------------------------------------------------------------------------------------
+SFML-0:2.5.1-7.fc33.x86_64 SFML-devel-0:2.5.1-7.fc33.i686 SFML-devel-0:2.5.1-7.fc33.x86_64 cmake-0:3.18.3-1.fc33.i686 cmake-0:3.18.4-2.fc33.x86_64 cmake-filesystem-0:3.18.4-2.fc33.x86_64 flac-devel-0:1.3.3-4.fc33.i686 flac-devel-0:1.3.3-4.fc33.x86_64 freetype-devel-0:2.10.4-1.fc33.i686 freetype-devel-0:2.10.4-1.fc33.x86_64 libogg-devel-2:1.3.4-3.fc33.i686 libogg-devel-2:1.3.4-3.fc33.x86_64 libvorbis-devel-1:1.3.7-2.fc33.i686 libvorbis-devel-1:1.3.7-2.fc33.x86_64 openal-soft-devel-0:1.19.1-9.fc33.i686 openal-soft-devel-0:1.19.1-9.fc33.x86_64 pkgconf-pkg-config-0:1.7.3-5.fc33.i686 pkgconf-pkg-config-0:1.7.3-5.fc33.x86_64
+----------------------------------------------------------------------------------------------------------
+SFML.x86_64
+----------------------------------------------------------------------------------------------------------
+flac-libs-0:1.3.3-4.fc33.x86_64 freetype-0:2.10.4-1.fc33.x86_64 glibc-0:2.32-4.fc33.i686 glibc-0:2.32-4.fc33.x86_64 libX11-0:1.6.12-3.fc33.x86_64 libXrandr-0:1.5.2-4.fc33.x86_64 libgcc-0:10.2.1-9.fc33.x86_64 libglvnd-glx-1:1.3.2-2.fc33.x86_64 libogg-2:1.3.4-3.fc33.x86_64 libstdc++-0:10.2.1-9.fc33.x86_64 libvorbis-1:1.3.7-2.fc33.x86_64 openal-soft-0:1.19.1-9.fc33.x86_64 systemd-libs-0:246.10-1.fc33.x86_64
+----------------------------------------------------------------------------------------------------------
+strace.x86_64
+----------------------------------------------------------------------------------------------------------
+bash-0:5.0.17-2.fc33.x86_64 elfutils-libs-0:0.183-1.fc33.x86_64 glibc-0:2.32-4.fc33.i686 glibc-0:2.32-4.fc33.x86_64
+----------------------------------------------------------------------------------------------------------
+sudo.x86_64
+----------------------------------------------------------------------------------------------------------
+audit-libs-0:3.0.1-2.fc33.x86_64 coreutils-0:8.32-18.fc33.x86_64 coreutils-single-0:8.32-18.fc33.x86_64 glibc-0:2.32-4.fc33.i686 glibc-0:2.32-4.fc33.x86_64 libselinux-0:3.1-2.fc33.x86_64 openldap-0:2.4.50-5.fc33.x86_64 openssl-libs-1:1.1.1j-1.fc33.x86_64 pam-0:1.4.0-10.fc33.i686 pam-0:1.4.0-10.fc33.x86_64 zlib-0:1.2.11-23.fc33.x86_64
+----------------------------------------------------------------------------------------------------------
+systemd-devel
+----------------------------------------------------------------------------------------------------------
+systemd-libs-0:246.10-1.fc33.i686 systemd-libs-0:246.10-1.fc33.x86_64 systemd-pam-0:246.10-1.fc33.x86_64
+----------------------------------------------------------------------------------------------------------
+tar.x86_64
+----------------------------------------------------------------------------------------------------------
+glibc-0:2.32-4.fc33.i686 glibc-0:2.32-4.fc33.x86_64 libacl-0:2.2.53-9.fc33.x86_64 libselinux-0:3.1-2.fc33.x86_64
+----------------------------------------------------------------------------------------------------------
+tcsh.x86_64
+----------------------------------------------------------------------------------------------------------
+bash-0:5.0.17-2.fc33.x86_64 coreutils-0:8.32-18.fc33.x86_64 coreutils-single-0:8.32-18.fc33.x86_64 glibc-0:2.32-4.fc33.i686 glibc-0:2.32-4.fc33.x86_64 grep-0:3.4-5.fc33.x86_64 libxcrypt-0:4.4.18-1.fc33.x86_64 ncurses-libs-0:6.2-3.20200222.fc33.x86_64 sed-0:4.8-5.fc33.x86_64
+----------------------------------------------------------------------------------------------------------
+tmux.x86_64
+----------------------------------------------------------------------------------------------------------
+bash-0:5.0.17-2.fc33.x86_64 glibc-0:2.32-4.fc33.i686 glibc-0:2.32-4.fc33.x86_64 libevent-0:2.1.8-10.fc33.x86_64 ncurses-libs-0:6.2-3.20200222.fc33.x86_64
+----------------------------------------------------------------------------------------------------------
+tree.x86_64
+----------------------------------------------------------------------------------------------------------
+glibc-0:2.32-4.fc33.i686 glibc-0:2.32-4.fc33.x86_64
+----------------------------------------------------------------------------------------------------------
+unzip.x86_64
+----------------------------------------------------------------------------------------------------------
+bash-0:5.0.17-2.fc33.x86_64 bzip2-libs-0:1.0.8-4.fc33.x86_64 glibc-0:2.32-4.fc33.i686 glibc-0:2.32-4.fc33.x86_64
+----------------------------------------------------------------------------------------------------------
+valgrind.x86_64
+----------------------------------------------------------------------------------------------------------
+glibc-0:2.32-4.fc33.i686 glibc-0:2.32-4.fc33.x86_64 libgcc-0:10.2.1-9.fc33.x86_64 perl-File-Basename-0:2.85-468.fc33.noarch perl-interpreter-4:5.32.1-468.fc33.x86_64 perl-libs-4:5.32.1-468.fc33.i686 perl-libs-4:5.32.1-468.fc33.x86_64
+----------------------------------------------------------------------------------------------------------
+vim
+----------------------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------------------
+wget.x86_64
+----------------------------------------------------------------------------------------------------------
+glibc-0:2.32-4.fc33.i686 glibc-0:2.32-4.fc33.x86_64 gnutls-0:3.6.15-1.fc33.x86_64 gpgme-0:1.14.0-2.fc33.x86_64 libidn2-0:2.3.0-4.fc33.x86_64 libmetalink-0:0.1.3-13.fc33.x86_64 libpsl-0:0.21.1-2.fc33.x86_64 libuuid-0:2.36.1-1.fc33.x86_64 nettle-0:3.6-3.fc33.x86_64 pcre2-0:10.36-4.fc33.x86_64 zlib-0:1.2.11-23.fc33.x86_64
+----------------------------------------------------------------------------------------------------------
+which.x86_64
+----------------------------------------------------------------------------------------------------------
+glibc-0:2.32-4.fc33.i686 glibc-0:2.32-4.fc33.x86_64
+----------------------------------------------------------------------------------------------------------
+xcb-util-image-devel.x86_64
+----------------------------------------------------------------------------------------------------------
+libxcb-devel-0:1.13.1-5.fc33.i686 libxcb-devel-0:1.13.1-5.fc33.x86_64 pkgconf-pkg-config-0:1.7.3-5.fc33.i686 pkgconf-pkg-config-0:1.7.3-5.fc33.x86_64 xcb-util-image-0:0.4.0-16.fc33.x86_64
+----------------------------------------------------------------------------------------------------------
+xcb-util-image.x86_64
+----------------------------------------------------------------------------------------------------------
+glibc-0:2.32-4.fc33.i686 glibc-0:2.32-4.fc33.x86_64 libxcb-0:1.13.1-5.fc33.x86_64 xcb-util-0:0.4.0-16.fc33.x86_64
+----------------------------------------------------------------------------------------------------------
+xz.x86_64
+----------------------------------------------------------------------------------------------------------
+bash-0:5.0.17-2.fc33.x86_64 glibc-0:2.32-4.fc33.i686 glibc-0:2.32-4.fc33.x86_64 grep-0:3.4-5.fc33.x86_64 xz-libs-0:5.2.5-4.fc33.x86_64
+----------------------------------------------------------------------------------------------------------
+zip.x86_64
+----------------------------------------------------------------------------------------------------------
+bzip2-libs-0:1.0.8-4.fc33.x86_64 glibc-0:2.32-4.fc33.i686 glibc-0:2.32-4.fc33.x86_64 unzip-0:6.0-49.fc33.x86_64
+----------------------------------------------------------------------------------------------------------
+zsh.x86_64
+----------------------------------------------------------------------------------------------------------
+bash-0:5.0.17-2.fc33.x86_64 coreutils-0:8.32-18.fc33.x86_64 coreutils-single-0:8.32-18.fc33.x86_64 gdbm-libs-1:1.19-1.fc33.x86_64 glibc-0:2.32-4.fc33.i686 glibc-0:2.32-4.fc33.x86_64 grep-0:3.4-5.fc33.x86_64 ncurses-libs-0:6.2-3.20200222.fc33.x86_64 pcre-0:8.44-2.fc33.x86_64
