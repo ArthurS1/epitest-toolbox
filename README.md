@@ -1,5 +1,7 @@
 ## Epitest Toolbox
 
+**This repository is no longer updated - do not hesitate to fork it.**
+
 ### Requirements
 
 You need to install `podman` (an alternative to docker present on fedora 31+), to build correctly epitest-toolbox image.
